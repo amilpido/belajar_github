@@ -9,3 +9,9 @@ def clean():
     
 def load():
     print("loading data")
+    
+def main():
+    extract()
+    transform()
+    clean()
+    load()
