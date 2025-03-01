@@ -8,7 +8,7 @@ def clean():
     print("cleaning")
     
 def load():
-    print("loading data")
+    print("loading dataaa")
     
 def main():
     extract()
